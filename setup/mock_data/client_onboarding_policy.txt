@@ -1,0 +1,29 @@
+CLIENT ONBOARDING POLICY (MOCK)
+
+Scope
+This policy defines the standard steps for onboarding a new institutional
+client into the wealth and markets business.
+
+1. Client Intake
+   - Capture legal name, entity type, country of incorporation and
+     regulatory identifiers.
+   - Confirm the requested products and expected trading limits.
+
+2. KYC / AML Screening
+   - Verify beneficial ownership for entities above the 25% threshold.
+   - Screen the client and related parties against sanctions and PEP lists.
+   - Assign a risk rating of Low, Medium or High based on jurisdiction,
+     product complexity and ownership structure.
+
+3. Entity Resolution
+   - Match the client against existing records to avoid duplicate entities.
+   - Link parent, subsidiary and affiliate relationships.
+
+4. Financial Review
+   - Validate credit rating and requested trading limit against the
+     approved credit policy.
+   - Escalate any limit request above the delegated authority threshold.
+
+5. Approval
+   - A case is marked ReadyToTrade only after intake, KYC/AML, entity
+     resolution and financial review are all complete.

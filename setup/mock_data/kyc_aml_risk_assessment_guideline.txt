@@ -1,0 +1,27 @@
+KYC / AML RISK ASSESSMENT GUIDELINE (MOCK)
+
+Purpose
+Provides the criteria used to assess money-laundering and sanctions risk
+for a client during onboarding and periodic review.
+
+Risk Factors
+- Jurisdiction risk: clients incorporated in high-risk or sanctioned
+  jurisdictions receive an automatic uplift in risk rating.
+- Ownership complexity: layered or opaque ownership structures increase
+  risk and require enhanced due diligence.
+- Product risk: complex derivatives and cross-border payments are rated
+  higher risk than vanilla cash products.
+- Adverse media: confirmed adverse media hits require a compliance
+  review before the case can proceed.
+
+Risk Ratings
+- Low: standard due diligence, reviewed every 3 years.
+- Medium: enhanced due diligence, reviewed annually.
+- High: enhanced due diligence with compliance sign-off, reviewed every
+  6 months.
+
+Sanctions and PEP Screening
+Every client and its beneficial owners are screened against sanctions and
+politically exposed persons (PEP) lists at onboarding and on every
+periodic review. Any potential match must be dispositioned by a
+compliance analyst before the case can move forward.

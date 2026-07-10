@@ -1,0 +1,23 @@
+FINANCIAL REVIEW AND CREDIT LIMIT CHECKLIST (MOCK)
+
+Purpose
+Defines the checks performed before a requested trading limit is
+approved for a new or existing client.
+
+Checklist
+1. Confirm the client's credit rating is current (refreshed within the
+   last 12 months).
+2. Compare the requested trading limit against the credit policy matrix
+   for the client's credit rating and product mix.
+3. Confirm collateral or margin arrangements are in place for products
+   that require them.
+4. Escalate to the credit committee when the requested limit exceeds the
+   delegated approval authority for the reviewing officer.
+5. Record the approved limit, approving officer and review date on the
+   client record.
+
+Credit Policy Matrix (indicative)
+- Rating A: up to 50,000,000 in unsecured trading limit.
+- Rating B: up to 20,000,000 in unsecured trading limit.
+- Rating C: unsecured limits require credit committee approval; secured
+  limits only above this rating.

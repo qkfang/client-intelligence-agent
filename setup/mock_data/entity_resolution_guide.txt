@@ -1,0 +1,25 @@
+ENTITY RESOLUTION AND CLIENT HIERARCHY GUIDE (MOCK)
+
+Purpose
+Explains how client legal entities are matched and linked to build an
+accurate client hierarchy.
+
+Matching Rules
+- Exact match on regulatory identifier (for example, an LEI or company
+  registration number) is treated as a confirmed match.
+- Fuzzy match on legal name plus country of incorporation requires
+  analyst confirmation before the entities are merged.
+- Entities with no regulatory identifier and a low name-similarity score
+  are treated as distinct clients.
+
+Hierarchy Modelling
+- Each client entity records its immediate parent, if any.
+- Ultimate parent and beneficial ownership chains are derived by walking
+  the parent links until no further parent is found.
+- Affiliates that share an ultimate parent but have no direct ownership
+  link are tagged as related parties, not consolidated entities.
+
+Data Quality
+Duplicate entity records are the most common data-quality issue during
+onboarding. Any duplicate detected after onboarding must be merged and
+the merge decision recorded for audit purposes.
